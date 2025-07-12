@@ -1,0 +1,1 @@
+""" file_handler.py - Handles file download logic using Selenium, manages local files, and uploads to Google Drive. Place core download/upload pipeline code here. """ def file_handler_placeholder(): """Placeholder for file handling logic.""" pass

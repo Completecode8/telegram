@@ -1,0 +1,1 @@
+""" help.py - Provides help and command list functionality in AssetFetch Pro. Used for /help and /bot-All-commandlist (admin DM command list). """ def help_command_placeholder(): """Placeholder for help command logic.""" pass

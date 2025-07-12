@@ -1,0 +1,1 @@
+""" sleep_blocker.py - Utilities for preventing PC sleep during bot operation in AssetFetch Pro. For use with Windows APIs or cross-platform sleep management libraries. """ def sleep_blocker_placeholder(): """Placeholder for sleep blocker utility logic.""" pass

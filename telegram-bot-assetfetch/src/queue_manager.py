@@ -1,0 +1,1 @@
+""" queue_manager.py - Handles persistent and in-memory task queues, priority handling and task assignment for AssetFetch Pro. """ def queue_manager_placeholder(): """Placeholder for queue manager logic.""" pass
